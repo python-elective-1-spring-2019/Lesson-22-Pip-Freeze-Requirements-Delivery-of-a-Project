@@ -12,6 +12,8 @@ Agenda 10-05-2019
 >     * Install From Github
     
 ## Required reading
+* [12.2. Creating Virtual Environments](https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments)
+* [12.3. Managing Packages with pip](https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip)
 * [Requirements Files](https://pip.pypa.io/en/stable/user_guide/#requirements-files)
 * [requirements tutorial](materials/tutorial_requirements_pip_freeze.md)
 
