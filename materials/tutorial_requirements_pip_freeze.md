@@ -35,9 +35,10 @@
 
 ````
 
-    mkdir pip_test
-    cd pip_test
-    touch script.py
+    $ mkdir pip_test
+    $ cd pip_test
+    $ touch script.py
+    $ touch README.md  # checkout https://www.makeareadme.com/ for content 
 
 ````
 >script.py  
