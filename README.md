@@ -12,8 +12,10 @@ Agenda 10-05-2019
 >     * Install From Github
     
 ## Required reading
-* 
+* [Requirements Files](https://pip.pypa.io/en/stable/user_guide/#requirements-files)
+* [requirements tutorial](materials/tutorial_requirements_pip_freeze.md)
 
 ## Exercises
-* 
+* [All](exercises/)
+
 
