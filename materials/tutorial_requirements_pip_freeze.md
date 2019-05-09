@@ -4,7 +4,7 @@
 
 ### Create a virtual
 
-````python
+````
 
     $ python -m venv tutorial_env
     $ source tutorial_env/bin/activate
@@ -33,7 +33,7 @@
 
 ### Create a new project
 
-````python
+````
 
     mkdir pip_test
     cd pip_test
@@ -52,7 +52,7 @@
 ````
 ### Pip Freeze
 
-````python
+````
 
     $ pip freeze 
     simple-colors==0.1.5 # shows a list of installed packages
@@ -96,7 +96,7 @@ First deactivate the virtual enviroment you are in (if you are)
 
 ### GIT CLONE or PIP INSTALL
 
-````python
+````
 
     $ pip install git+https://github.com/clbokea/test_pip.git
 
@@ -140,6 +140,7 @@ First deactivate the virtual enviroment you are in (if you are)
 ### Run script.py
 
 ````python
+    
     python script.py
     hello
     hello
